@@ -1,0 +1,10 @@
+.b-short-post-description{
+	margin-bottom:10px;
+}
+.b-short-post-description__caption{
+	margin:0;
+}
+.b-short-post-description__field{
+	min-height:100px !important;
+	height: 100px !important;
+}
